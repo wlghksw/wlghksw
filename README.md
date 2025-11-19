@@ -1,7 +1,5 @@
 <div align="center">
   
-# 👋 안녕하세요!
-
 ### 개발자를 꿈꾸는 개발자입니다
   
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
@@ -70,17 +68,7 @@
 
 ## 💬 연락처
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: wlghksw01@gmail.com
+- 💼 youtube: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - 🌐 Blog: [Your Blog](https://yourblog.com)
-
----
-
-<div align="center">
-  
-### ⭐ Star는 개발자에게 큰 힘이 됩니다!
-  
-Made with ❤️ by [Your Name](https://github.com/YOUR_USERNAME)
-
-</div>
 

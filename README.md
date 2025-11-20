@@ -1,6 +1,6 @@
 <div align="center">
-  
-# 안녕하세요!
+
+# 👋 안녕하세요!
 
 ### 개발자를 꿈꾸는 개발자입니다
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -37,49 +37,27 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Others
+### Tools
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub 통계
+## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wlghksw&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlghksw&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=wlghksw&theme=radical&hide_border=true)
-
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
-  
-![Snake animation](https://github.com/wlghksw/wlghksw/blob/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
----
-
-## 💬 연락처
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Blog: [Your Blog](https://yourblog.com)
-
----
-
-<div align="center">
-  
-### ⭐ Star는 개발자에게 큰 힘이 됩니다!
-  
 Made with ❤️ by [wlghksw](https://github.com/wlghksw)
 
 </div>

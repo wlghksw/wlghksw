@@ -64,19 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wlghksw&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlghksw&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 Made with ❤️ by [wlghksw](https://github.com/wlghksw)
 

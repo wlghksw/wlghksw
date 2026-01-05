@@ -66,6 +66,6 @@
 
 
 
-Made with ❤️ by [wlghksw](https://github.com/wlghksw)
+Made with by [wlghksw](https://github.com/wlghksw)
 
 </div>
